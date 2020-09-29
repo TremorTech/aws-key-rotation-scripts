@@ -67,3 +67,4 @@ The rotate-iam-key.sh script accepts the following command line options:
      -u --user          The IAM user whose key you want to rotate. Required.
      -j --json          A file to send JSON output to. Optional.
         --help          Prints this help message
+
